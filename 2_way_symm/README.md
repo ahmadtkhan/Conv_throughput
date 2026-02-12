@@ -4,11 +4,11 @@ Utilizes the kernel's x and y-axis symmetrical properties to decrease the number
 ![Original image](results/barbara_original.png) <br>
 *Figure 1: Original Image*
 
-![Identity image](results/identical_barbara.png)
+![Identity image](results/identical_barbara.png) <br>
 *Figure 2: Identity Image*
 
-![Edge image](results/barabara_edge.png)
+![Edge image](results/barabara_edge.png) <br>
 *Figure 3: Edge Image*
 
-![Sharpened image](results/sharpened_barbara.png)
+![Sharpened image](results/sharpened_barbara.png) <br>
 *Figure 4: Sharpened Image*
